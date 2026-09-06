@@ -13,7 +13,7 @@ source:
   sha256: 7c9507fcc62bac4ef1d40b1ed37ff7fa07e44b5043b30288f63bcf4fdc62644a
 
 build:
-  number: 0
+  number: 1
   script:
     - if: target_platform == "linux-ppc64le"
       then:
